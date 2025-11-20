@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Day 1 Challenge - Themed Cards</title>
+    <style>
+        /* Global Variables */
+        :root {
+            --primary-color: #1976d2;
+            --secondary-color: #ff9800;
+            --card-padding: 1.5rem;
+            --card-radius: 1rem;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 2rem;
+            padding: 2rem;
+        }
+
+        .card {
+            background-color: var(--primary-color);
+            color: white;
+            padding: var(--card-padding);
+            border-radius: var(--card-radius);
+            width: 300px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .card button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: var(--secondary-color);
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            color: white;
+            font-weight: bold;
+        }
+
+        .card button:hover {
+            opacity: 0.9;
+        }
+
+        /* Dark Theme Card */
+        .dark-card {
+            --primary-color: #121212;
+            /* dark gray background */
+            --secondary-color: #00bcd4;
+            /* cyan accent */
+            --card-padding: 2rem;
+            /* larger padding */
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Original Light Card -->
+    <div class="card">
+        <h2>Light Card</h2>
+        <p>This card uses global CSS variables.</p>
+        <button>Click Me</button>
+    </div>
+
+    <!-- Dark Card -->
+    <div class="card dark-card">
+        <h2>Dark Card</h2>
+        <p>This card overrides CSS variables locally.</p>
+        <button>Click Me</button>
+    </div>
+</body>
+
+</html>

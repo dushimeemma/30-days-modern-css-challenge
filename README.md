@@ -1,0 +1,32 @@
+# 30 DAYS MODERN CSS CHALLENGE
+
+- Start Day 1 => 20/11/2025 ✅
+- Start Day 2 => 21/11/2025 ✅
+- Start Day 3 => 24/11/2025 ✅
+- Start Day 4 => 25/11/2025 ✅
+- Start Day 5 => 26/11/2025
+- Start Day 6 => 27/11/2025
+- Start Day 7 => 28/11/2025
+- Start Day 8 => 01/12/2025
+- Start Day 9 => 02/12/2025
+- Start Day 10 => 03/12/2025
+- Start Day 11 => 05/12/2025
+- Start Day 12 => 08/12/2025
+- Start Day 13 => 09/12/2025
+- Start Day 14 => 10/12/2025
+- Start Day 15 => 11/12/2025
+- Start Day 16 => 12/12/2025
+- Start Day 17 => 15/12/2025
+- Start Day 18 => 16/12/2025
+- Start Day 19 => 17/12/2025
+- Start Day 20 => 18/12/2025
+- Start Day 21 => 19/12/2025
+- Start Day 22 => 22/12/2025
+- Start Day 23 => 23/12/2025
+- Start Day 24 => 24/12/2025
+- Start Day 25 => 29/12/2025
+- Start Day 26 => 30/12/2025
+- Start Day 27 => 31/12/2025
+- Start Day 28 => 05/01/2026
+- Start Day 29 => 06/01/2026
+- Start Day 30 => 07/01/2026
